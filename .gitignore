@@ -1,1 +1,7 @@
 .DS_Store
+.DS_Store
+wp-includes/.DS_Store
+wp-includes/blocks/.DS_Store
+wp-includes/images/.DS_Store
+wp-includes/js/.DS_Store
+wp-content/.DS_Store
